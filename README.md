@@ -1,4 +1,4 @@
-# mi-repo
+# Primer repo
 Primer repo creado en github
 
 ## descripciom
